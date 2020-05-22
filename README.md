@@ -13,4 +13,12 @@ Steps to run:
 2. Run with command python main.py.
 # Features
 ![Main Screen](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui1.PNG)
-above is the screenshot of the project.
+Above is the screenshot of the project.
+Now, we will see each section one by one,
+## Symptom Section
+In this section five fields are given to choose various symptoms. 
+![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
+## Algorithm Section
+In this section three buttons are used to select the algorithm to be used in the prediction
+![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG) 
+
