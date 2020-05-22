@@ -19,6 +19,7 @@ Now, we will see each section one by one,
 In this section five fields are given to choose various symptoms. 
 ![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
 ## Algorithm Section
+![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
 In this section three buttons are used to select the algorithm to be used in the prediction
-![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG) 
+ 
 
