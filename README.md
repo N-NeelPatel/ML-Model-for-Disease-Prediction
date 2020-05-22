@@ -13,3 +13,4 @@ Steps to run:
 2. Run with command python main.py.
 # Features
 ![Main Screen](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui1.PNG)
+above is the screenshot of the project.
