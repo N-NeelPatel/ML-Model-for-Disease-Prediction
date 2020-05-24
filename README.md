@@ -21,6 +21,8 @@ In this section five fields are given to choose various symptoms.
 ## Algorithm Section
 ![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
 In this section three buttons are used to select the algorithm to be used in the prediction. Here, three different algorithms are used in order to have maximum accuracy and to make a judgement from prediction.
+1. Decision Tree
+
 ## Predicted Results
 This section will show the results from above section. It will show the predicted outcome from using above given algorithms.
 ![predicted-outcome](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-result.PNG)
