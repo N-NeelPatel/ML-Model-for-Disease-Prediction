@@ -17,6 +17,8 @@ Above is the screenshot of the project.
 Now, we will see each section one by one,
 ## Symptom Section
 In this section five fields are given to choose various symptoms. 
+### Example: 
+###
 ![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
 ## Algorithm Section
 ### Example of GUI: 
@@ -67,6 +69,7 @@ To know more about Naive Bayes algorithm and how it works, visit **[Naive Bayes]
 
 ## Predicted Results
 This section will show the results from above section. It will show the predicted outcome from using above given algorithms.
+###
 ![predicted-outcome](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-result.PNG)
 # Example
 ![example](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-2.PNG)
