@@ -19,7 +19,7 @@ Now, we will see each section one by one,
 In this section five fields are given to choose various symptoms. 
 ![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
 ## Algorithm Section
-### Example: 
+### Example of GUI: 
 ![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
 ###
 In this section three buttons are used to select the algorithm to be used in the prediction. Here, three different algorithms are used in order to have maximum accuracy and to make a judgement from prediction.
@@ -36,6 +36,7 @@ Types of decision trees are based on the type of target variable we have. It can
 **Example:-** Let’s say we have a problem to predict whether a customer will pay his renewal premium with an insurance company (yes/ no). Here we know that the income of customers is a significant variable but the insurance company does not have income details for all customers. Now, as we know this is an important variable, then we can build a decision tree to predict customer income based on occupation, product, and various other variables. In this case, we are predicting values for the continuous variables.
 
 To know more about decision tree algorithm and how it works, visit **[decision tree](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)** page.
+### 2. Random Forest
 
 
 ## Predicted Results
