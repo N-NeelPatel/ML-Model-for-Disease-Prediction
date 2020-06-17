@@ -274,7 +274,7 @@ rnf.grid(row = 9, column = 3, padx = 10)
 lr = Button(root, text="NaiveBayes", command=NaiveBayes, bg="green", fg="yellow")
 lr.grid(row = 10, column = 3, padx = 10)
 
-#textfileds
+# textfields
 t1 = Text(root, height=1, width=40,bg="white",fg="black")
 t1.grid(row=15, column=1, padx=10)
 
